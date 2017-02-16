@@ -1,7 +1,7 @@
 {
   "name": "finalexam",
   "version": "1.0.0",
-  "description": "The student, on their own, is able to:\r - Follow indentation and coding styleguides in their code\r - Use and set up linters\r - Create variables, functions, objects in JavaScript based on a given specification\r - Use conditions and loops:\r   - Filtering\r   - Finding elements or index\r   - Generating collections\r   - Counting items in an object\r - Determine the output of a logical expression\r - Determine the output of an immediately invoked function expression\r - Use higher order functions\r - Explain their own code\r - Initialize a node package\r - Install packages via a package manager\r - Write unit tests for functions and methods without mocking dependencies\r - Include and call 3rd party libraries in their code\r   - Using libraries on the frontend\r   - Using libraries on the backend\r - Use frameworks and know its components and processes\r - Use async structures:\r   - Writing functions that are taking and calling callbacks\r   - Determining the calling order in nested callbacks\r   - Using timers\r - Use git:\r   - Commit, add, push, pull\r   - Resolving a simple merge conflict\r   - Creating a pull request\r - Use the command line:\r   - Traversing directories\r   - Moving, copying, creating, deleting files\r   - Passing command line arguments to commands\r - Use databases:\r   - Implement database calls with JavaScript\r   - Write a simple SQL query for a single table:\r     - Listing, Deleting, Updating, Creating rows with specific values\r - Write backend code:\r   - Implement an HTTP endpoint\r   - Set headers on HTTP responses\r - Explain REST concepts\r - Write frontend code:\r   - Create layout in CSS and HTML based on a given specification\r   - Select any HTML element using CSS selectors\r   - Handle events\r   - Dynamically create elements\r   - Change attributes and properties on HTML elements using JavaScript\r   - Initiate HTTP requests\r - Use build tools\r - Deploy application to hosting service\r - Differentiate between backend and frontend functionality\r - Refactor code:\r   - Create meaningful names for functions and variables\r   - Split bigger functions to smaller ones\r   - Separate functions to different files\r   - Point out code smells\r **- Name 3 design patterns**\r - Understand how the internet works\r   - Name the parts of an URL\r   - Name a few protocols/technologies in connection with network communication",
+  "description": "",
   "main": "ricsi.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/bednayb/FinalExam/issues"
   },
-  "homepage": "https://github.com/bednayb/FinalExam#readme"
+  "homepage": "https://github.com/bednayb/FinalExam#readme",
+  "devDependencies": {
+    "eslint": "^3.15.0",
+    "eslint-config-airbnb-base": "^11.1.0",
+    "eslint-plugin-import": "^2.2.0"
+  }
 }
