@@ -13,12 +13,12 @@ The student, on their own, is able to:
 - Determine the output of an immediately invoked function expression
 - Use higher order functions https://github.com/bednayb/FinalExam/blob/master/higherOrderFunctions.js
 - Explain their own code
-- Initialize a node package  
+- Initialize a node package  https://github.com/bednayb/zerda-exam-web-retake
 - Install packages via a package manager
-- Write unit tests for functions and methods without mocking dependencies
+- Write unit tests for functions and methods without mocking dependencies https://github.com/bednayb/zerda-exam-web-retake
 - Include and call 3rd party libraries in their code
-  - Using libraries on the frontend
-  - Using libraries on the backend
+  - Using libraries on the frontend https://github.com/bednayb/FinalExam/blob/master/index.html
+  - Using libraries on the backend https://github.com/bednayb/zerda-exam-web-retake
 - Use frameworks and know its components and processes
 - Use async structures: https://github.com/bednayb/FinalExam/blob/master/timer.js
   - Writing functions that are taking and calling callbacks
