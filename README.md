@@ -14,11 +14,11 @@ FISRT TASK https://github.com/bednayb/FinalExam/blob/master/firstTask.js
 - Determine the output of an immediately invoked function expression
 - Use higher order functions https://github.com/bednayb/FinalExam/blob/master/higherOrderFunctions.js
 - Explain their own code
-- Initialize a node package  https://github.com/bednayb/zerda-exam-web-retake
-- Install packages via a package manager
+- Initialize a node package  https://github.com/bednayb/zerda-exam-web-retake/blob/master/package.json
+- Install packages via a package manager https://github.com/bednayb/zerda-exam-web-retake/blob/master/package.json
 - Write unit tests for functions and methods without mocking dependencies https://github.com/bednayb/zerda-exam-web-retake
 - Include and call 3rd party libraries in their code
-  - Using libraries on the frontend https://github.com/bednayb/FinalExam/blob/master/index.html
+  - Using libraries on the frontend  https://github.com/bednayb/deployAppOnGit.github.io/tree/gh-pages
   - Using libraries on the backend https://github.com/bednayb/zerda-exam-web-retake
 - Use frameworks and know its components and processes
 - Use async structures:
@@ -57,7 +57,7 @@ https://github.com/greenfox-zerda-lasers/bloodstone-bookmarks/tree/master/src/sc
   https://github.com/greenfox-zerda-lasers/bednayb/blob/master/week-10/Foxplayer/foxplayer.js
   - Initiate HTTP requests https://github.com/bednayb/zerda-exam-web-retake/blob/master/client/script.js
 - Use build tools https://github.com/greenfox-zerda-lasers/bloodstone-bookmarks/blob/master/webpack.config.js
-- Deploy application to hosting service
+- Deploy application to hosting service https://bednayb.github.io/deployAppOnGit.github.io/ , https://github.com/bednayb/deployAppOnGit.github.io/tree/gh-pages
 - Differentiate between backend and frontend functionality
 - Refactor code:
   - Create meaningful names for functions and variables
